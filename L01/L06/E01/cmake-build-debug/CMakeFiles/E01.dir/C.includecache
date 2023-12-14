@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/Desktop/PoliTo/II Anno/I Semestre/Algoritmi e Strutture Dati/Projects/L06/E01/main.c
+stdio.h
+-
+stdlib.h
+-
+
