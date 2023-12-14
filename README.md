@@ -1,1 +1,1 @@
-Soluzioni dei laboraotri del corso Algorirmi e Strutture Dati 2021/2022
+Soluzioni dei laboraotri del corso Algoritmi e Strutture Dati 2021/2022
